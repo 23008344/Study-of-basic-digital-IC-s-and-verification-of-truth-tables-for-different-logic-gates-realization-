@@ -69,7 +69,7 @@ Check all the gates following the same procedure.
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 
- ![Alt text](image.png)
+ ![image](https://github.com/23008344/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742655/0c921b71-19e8-459a-bb9a-8b0911bfdcf3)
 
 verilog.
 
@@ -77,19 +77,22 @@ verilog.
 
 ## RTL:
 
-![Alt text](image-1.png)
+![image](https://github.com/23008344/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742655/75ac0868-a1d0-41d6-b775-1439759dcbd6)
+
 
 /*
 
 ## Logic symbol & Truthtable:
 
-![Alt text](image-2.png)
+![image](https://github.com/23008344/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742655/1bb54e5f-c81a-4584-99eb-d574851e66b0)
+
 
 /*
 
 ## Output Waveform:
 
-![Alt text](image-3.png)
+![image](https://github.com/23008344/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742655/9b59229a-9961-4b50-9136-5c1700d42794)
+
 
 
 ## Result:
