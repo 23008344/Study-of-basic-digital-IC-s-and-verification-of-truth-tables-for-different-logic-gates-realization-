@@ -76,8 +76,7 @@ verilog.
 */
 
 ## RTL:
-
-![image](https://github.com/23008344/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742655/75ac0868-a1d0-41d6-b775-1439759dcbd6)
+![image](https://github.com/23008344/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/145742655/ef3da837-de7c-443d-8f9c-1d81c15f4432)
 
 
 /*
